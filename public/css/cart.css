@@ -1,0 +1,33 @@
+
+  
+  .show-cart li {
+    display: flex;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .card-img-top {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+  }
+
+.col  {
+    padding-left: 10em;
+}
+.icon{
+  height: 20px;
+  width:20px ;
+}
+.column {
+  float: left;
+  width: 50%;
+  flex: 50%;
+}
+.rowed {
+  display: flex;
+}
+
+.purchase-cart{
+  text-align: center;
+}
